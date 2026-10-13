@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
           
           {/* Column 1: Brand & About */}
           <div className="space-y-4">
-            <a href="#home" className="inline-block bg-[#FFCC00] px-3 py-1.5 rounded-xl shadow-md border border-amber-400/40 hover:opacity-90 transition-opacity" aria-label="Voltar ao início">
+            <a href="#home" className="inline-block bg-white px-3 py-1.5 rounded-xl shadow-md border border-amber-400/40 hover:opacity-90 transition-opacity" aria-label="Voltar ao início">
               <img
                 src="/logo-udi-entregas.png"
                 alt="UDI Entregas Urgente"

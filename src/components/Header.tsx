@@ -81,7 +81,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenQuoteModal }) => {
           
           {/* Logo Brand */}
           <a href="#home" className="flex items-center gap-3 group focus:outline-none" aria-label="UDI Entregas - Início">
-            <div className="bg-[#FFCC00] px-2.5 py-1 rounded-xl shadow-md border border-amber-400/40 flex items-center justify-center transition-transform group-hover:scale-105">
+            <div className="bg-white px-2.5 py-1 rounded-xl shadow-md border border-amber-400/40 flex items-center justify-center transition-transform group-hover:scale-105">
               <img
                 src="/logo-udi-entregas.png"
                 alt="UDI Entregas Urgente - O seu agente de cargas em Uberlândia e região"
